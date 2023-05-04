@@ -31,7 +31,7 @@
     margin-bottom: 20px;
   }
   img:hover{
-    content: url("image.png");
+    content: url("/image.png");
   }
   
   label {
